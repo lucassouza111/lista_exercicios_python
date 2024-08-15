@@ -1,0 +1,37 @@
+﻿Tecnologias Exponenciais - Módulo 4 - Minhas Respostas
+
+
+Tela 9 - Iot e você
+	
+Como a IoT facilita ou poderia facilitar suas tarefas cotidianas?
+Hoje já facilita, tipo mostrando o horário que o ônibus irá passar ou indicando o horário de melhor fluxo das vias.
+
+
+Tela 13 - Qual é o seu lado?
+	
+Você é mais rígido ou mais flexível em relação ao uso de dados pessoais?
+Entendo que não devemos usar de longos contratos ou diretrizes para esconder (ou inibir o leitor) o que está sendo aceito. Na dúvida devemos sempre presar pela privacidade.
+
+
+Tela 15 - O que você faria?
+	
+Qual é a sua ideia de uma aplicação útil da IoT? Quem é o público e como ele seria beneficiado?
+Controle dos volume de líquidos nos ralos da rede pública. Com o controle e a média do volume é possível identificar se alguma região está propenso a ter algum tipo de alagamento. Com o controle é possível beneficiar a população da região controlada. 
+
+
+Tela 22 - Pensando em soluções
+	
+Tema:
+Alimentos transgênicos
+	
+Benefícios
+Produzir mais utilizando o mesmo espaço e insumos da natureza.
+	
+Problemas éticos e possíveis soluções
+Possibilidade de mudança não desejada ou criar um monopólio, onde não são mais produzidos produtos com a semente. Onde obriga os produtores a comprarem as sementes de grandes corporações capitalistas.
+
+
+Tela 23 - Chegou a hora!
+	
+Digite aqui seu projeto de Biotecnologia:
+Mudanças nas doenças existentes. Podendo alterar o efeito e transforma-los em menos nocivos aos humanos.

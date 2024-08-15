@@ -1,0 +1,234 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+body {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    background-color: #dddddd;
+}
+
+div#interface {
+    width: 1024px;
+    background-color: #ffffff;
+    box-shadow: 0px -px 10px rgba(0, 0, 0, 0.4);
+
+    margin-right: auto;
+    margin-left: auto;
+    color: #606060;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* CABEÇALHO */
+header#cabecalho {
+    /* border-bottom: 1px solid #606060; */
+    /* height: 170px; */
+    border-bottom: none;
+    border-bottom-width: initial;
+    border-bottom-style: none;
+    border-bottom-color: initial;
+    box-shadow: 0 1px 3px rgb(50 50 50 / 8%);
+    padding: 15px 5px 5px 15px;
+
+    display: flex;
+}
+
+.display-left {
+    width: 20%;
+
+    border-color: rgb(240, 146, 5);
+    border-style: solid;
+    order: 1;
+}
+
+.display-right {
+    width: 80%;
+
+    border-color: rgb(240, 146, 5);
+    border-style: solid;
+    order: 2;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.display-right-up {
+    order: 1;
+
+    border-color: rgb(240, 146, 5);
+    border-style: solid;
+}
+
+.display-right-down {
+    order: 2;
+
+    border-color: rgb(240, 146, 5);
+    border-style: solid;
+}
+
+/* header#cabecalho img#lotus {
+    position: absolute;
+    left: 950px;
+    top: 70px;
+} */
+
+header#cabecalho h1 {
+    /* font-family: 'FonteLogo', Arial, Helvetica, sans-serif; */
+    font-size: 25px;
+    color: #606060;
+    text-shadow: 1px 1px 1px rgba(0.1, 0.2, 0.3, .5);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+header#cabecalho h2 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
+    color: #808020;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+.header-left {
+    width: 40%;
+
+    border-color: rgb(240, 146, 5);
+    border-style: solid;
+}
+/* FIM - CABEÇALHO */
+
+/* Formatação do Menu */
+nav#menu {
+    display: block;
+}
+
+nav#menu ul {
+    list-style: none;
+    text-transform: uppercase;
+    top: -10px;
+    left: 580px;
+}
+
+nav#menu li {
+    display: inline-block;
+    background-color: #dddddd;
+    padding: 5px;
+    margin: 4px;
+    transition: background-color 1s;
+}
+
+nav#menu li:hover {
+    background-color: #606060;
+}
+
+nav#menu h1 {
+    display: none;
+}
+
+nav#menu a {
+    color: black;
+    text-decoration: none;
+}
+
+nav#menu a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+/* FIM - Formatação do Menu */
+
+/* Formatação do SubMenu */
+nav#submenu {
+    display: block;
+    text-decoration: underline;
+}
+
+nav#submenu ul {
+    list-style: none;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav#submenu li {
+    display: inline-block;    
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #828282;
+}
+
+nav#submenu h1 {
+    display: none;
+}
+
+nav#submenu a {
+    /* color: black; */
+    text-decoration: none;
+}
+
+nav#submenu a:hover {
+    color: #8ed1fc;
+    text-decoration: underline;
+}
+/* FIM - Formatação do SubMenu */
+
+#container {
+    width: 100%;
+    display: flex;
+}
+
+section#corpo {
+    display: block;
+    width: 20%;
+    float: left;
+    border-right: 1px solid #858282;
+    padding-left: 15px;
+    order: 1;
+}
+
+aside#lateral {
+    display: block;
+    width: 80%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    order: 2;
+
+    
+    /* border-color: rgb(240, 146, 5);
+    border-style: solid; */
+}
+
+aside#lateral h1 {
+    font-family: 'FonteLogo', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #070707;
+    text-shadow: 1px 1px 1px rgba(191, 185, 242, 0.5);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+aside#lateral h2 {
+    font-family: 'FonteLogo', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #070707;
+    text-shadow: 1px 1px 1px rgba(191, 185, 242, 0.5);
+    padding: 0px;
+    margin-bottom: 15px;
+}
+
+aside#lateral ul {
+    margin-left: -20px;
+}
+
+footer#rodape {
+    clear: both;
+    border-top: 1px solid #606060;
+}
+
+footer#rodape p {
+    text-align: center;
+}

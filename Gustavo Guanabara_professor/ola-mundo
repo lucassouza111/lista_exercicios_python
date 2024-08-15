@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8"/>
+	<title>Curso de HTML5</title>
+	<style>
+		h1 {
+			font-family: Arial;
+			font-size: 30pr;
+			color: blue;
+			text-shadow: 5px 2px 2px 2px pink
+			}
+	</style>
+</head>
+<body>
+	<h1>Olá, Mundo!</h1>
+	<h2>Olá, Mundo!</h2>
+
+</body>
+</html>

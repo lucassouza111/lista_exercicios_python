@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Sigla>A1</Sigla>
+		<Categoria>Economico</Categoria>
+	</record>
+	<record>
+		<Sigla>A2</Sigla>
+		<Categoria>Furgao</Categoria>
+	</record>
+	<record>
+		<Sigla>A3</Sigla>
+		<Categoria>SUV</Categoria>
+	</record>
+	<record>
+		<Sigla>A4</Sigla>
+		<Categoria>Perua</Categoria>
+	</record>
+	<record>
+		<Sigla>A5</Sigla>
+		<Categoria>PickUp</Categoria>
+	</record>
+	<record>
+		<Sigla>A6</Sigla>
+		<Categoria>Sedan</Categoria>
+	</record>
+</data-set>

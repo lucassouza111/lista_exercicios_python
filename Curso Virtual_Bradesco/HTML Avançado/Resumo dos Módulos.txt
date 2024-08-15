@@ -1,0 +1,74 @@
+Módulo 1 - Criando e formatando tabela
+- Tabela
+<table></table>					(tabela)
+<td></td>					(coluna)
+<tr>						(linha)
+ - Atributos
+<table border="nº de pixels">			(borda da tabela)
+<table bordercolor="cor">			(cor da borda)
+<table bgcolor="cor">				(cor de fundo da tabela, coluna ou linha)
+<table background="imagem.jpg">			(imagem de fundo da tabela)
+<table width="valor>				(largura da tabela ou célula)
+<table height="valor">				(altura da tabela ou célula)
+<table align="alinhamento">			(alinhamento da tabela, coluna ou linha)
+Left (esquerda) Center (centro) Right (direita)
+<table cellspacing="valor">			(espaço entre as bordas da tabela ou células)
+<td colspan="valor">				(mescla coluna)
+<td rowspan="valor">				(mescla linha)
+<table cellpadding="valor">			(espaço entre os dados e a borda da célula)
+<td valign="alinhamento">			(alinhar os dados da célula)
+Top (superior) Center (centro) Bottom (inferior)
+
+
+Módulo 2 - Criando e formatanndo formulários
+- Formulário
+<Form></Form>					(formulário)
+ - Atributos
+<form action="URL">				(executa o script que processará os dados)
+ Exemplos: email, executavel em php
+<form method="método">				(maneira de envio dos dados)
+Post (quantidade maior de dados) Get (respostas únicas)
+<input></input>					(cria os campos de entrada e dados no formulário)
+Type (tipo de controle) Value (valor inicial) Name (nome do campo) Maxlenght (número máx de caracteres)
+Src (local da imagem) Checked (botão está selecionado) Size (tamanho do controle)
+<input type="tipo de controle">			(tipo de controle e caracteres aceito)
+Imagem (botão de enviar, via imagem) File (seleção de arquivo) Reset (botão de reset)
+Button (botão para ser precionado) Submit (botão enviar) Text (campo texto) Password (campo senha)
+Radio (escolha única) Checkbox (caixa seleção) Hidden (controle oculto) Checked (deixa uma opção já selecionada)
+<textarea></textarea>				(campo com a área maior, mais de 1 linha)
+Name (nome do campo) Rows (linha) Cols (coluna)
+<input type=hidden name="variável value="valor">
+<select multiple name="nome da lista>
+     <option selected value="valor1"> valor </select>
+size 						(apresenta um bloco com as opções)
+
+
+Módulo 3 - Criando e Formatando Frames
+- Frames
+<frame></frame>					(frames)
+<frameset></frameset>				(Frames)
+- Atributos
+<frameset cols="%,*,%">				(Define a quantidade de colunas e a porcentagem da tela)
+"*" quando usado o 'asterístico' difine que é o resultado remanecente da tela
+Src (especifica a URL) Marginwidth (A margem esq ou dir do frame) Margiheight (A margem sup ou inf do frame)
+Scrolling (adiciona barra de rolagem no frame) Noresize (impeque que seja redimissionado a frame)
+<frame src="caminho" name="nome indicado">
+<a href="url" target="nome da frame"></A>	(direcionar a frame)
+Target = _blank (abre link em nova janela) _self (abre link no mesmo frame) _parent (carrega no frame principal)
+_top (carrega link na frame mais alta da pág.)
+
+
+Módulo 4 - Incrementanndo a página web
+- Meta
+<Meta>						(informações sobre os seus dados e fica localizado entre Head)
+<Meta Name="nome" Content="Relativo ao nome">
+- Atributos do Name
+Author (autor do documento) Description (descreve o documento) Keywords (palavra chave)
+Gernarator (programa para gerar o documento) Robots (define regras para robôs, sistemas de busca)
+Copyright (direitos autorais do documento)
+<Meta HTTP-EQUIV="content-type" Content="text/html" Charset=UTF-8>
+- Atributos do HTTP-EQUIV
+Content-type (tipo de documento, text/html) Expires (validade do documento, p/ ficar obsoleto)
+Refresh (tempo para a pág ser atualizada) Set-Coockie (define o valor de um coockie)
+<Meta HTTP-EQUIV=Refresh Content="x segundos" URL="caminho">
+

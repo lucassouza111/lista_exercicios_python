@@ -1,0 +1,25 @@
+Lógica de Programação
+
+Cap. 2 - Controle de Fluxo e Estruturas de Repetição
+
+
+- Loop - Conjunto de instruções que um programa de computador percorre e repete um significativo número de vezes, até que sejam alcançadas as condições desejadas.
+
+
+- Contador Fixo - Recurso que utiliza uma variável Contador para contar o número de vezes que uma determinada sequência será repetida. Quando o valor do contador atingir o número predeterminado, a repetição será encerrada.
+
+- Flag de Resposta (sinalização do usuário) - Recurso que utiliza uma variável Contador para contar o número de vezes que uma determinada sequência será repetida. Quando o valor do contador atingir o número predeterminado, a repetição será encerrada.
+
+
+- Flag Predeterminado (sinalização predeterminada) - Recurso que possibilita ao usuário encerrar o loop quando quiser, digitando uma palavra predeterminada, ou quando se chegar a uma condição específica, determinada pelo valor de um campo específico.
+
+
+Tipos de recurso de repetição:
+
+- Enquanto <condição> Faça (while) - Serve tanto para repetições com contador fixo quanto para repetições por sinalizações (flag).
+Finaliza com: FIM ENQUANTO
+
+- Para <VAR = valor inicial> próximo <valor final> [Passo <VAR>] (for next) - Serve apenas para repetições por contador fixo.
+Finaliza com: PRÓXIMO
+
+

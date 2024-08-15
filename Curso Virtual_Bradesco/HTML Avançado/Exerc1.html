@@ -1,0 +1,47 @@
+<HTML>
+ <HEAD>
+  <TITLE>Cadastro</TITLE>
+  <Meta>
+ </HEAD>
+
+ <BODY>
+  <p><font color=blue size=5 face=verdana>Formulário para Cadastro</font></p>
+  <form name "Form1" method=post Action="envia.php">
+  <table width="100%" Border="0" Cellspacing="5">
+    <tr>
+      <TD Width="13%">Nome</TD>
+      <TD Width="87%"><input type=text Name="nome" Size=20></TD>
+    </tr>
+    <tr>
+      <TD>E-mail</TD>
+      <TD><input type=text Size=20></TD>
+    </tr>
+    <tr>
+      <td>Sexo</td>
+      <td><input type=radio name="sexo" Value="fem" checked>Feminino
+          <input type=radio name="sexo" Value="masc">Masculino</td>
+    </TR>
+    <TR>
+      <TD>RG</TD>
+      <TD><input type=number Name= "rg" Size="20" Maxlenght="8"></TD>
+    </TR>
+    <TR>
+      <TD>CPF</TD>
+      <TD><input type=text Name="cpf" Size="20" Maxlenght="11"></TD>
+    </TR>
+    <TR>
+      <TD>Login</TD>
+      <TD><input type=text Nome="login" Size="20"></TD>
+    </TR>
+    <TR>
+      <TD>Senha</TD>
+      <TD><input type=password Name= "senha" Size="20"></TD>
+    </TR>
+    <TR>
+      <TD><input type=Submit Name="enviar" Value="Enviar">
+      <input type=Reset Name="limpar" Value="Limpar"></TD>
+    </TR>
+  </table>
+  </form>
+ </BODY>
+</HTML>

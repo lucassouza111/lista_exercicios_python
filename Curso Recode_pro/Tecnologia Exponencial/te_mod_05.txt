@@ -1,0 +1,108 @@
+﻿Tecnologias Exponenciais - Módulo 5 - Minhas Respostas
+
+
+Tela 9 - No alvo
+	
+ODS escolhida:
+ODS 7 - Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos
+	
+Recorte do problema:
+Mesmo o Brasil sendo o país na vanguarda de geração limpa de energia temos estados que ainda não estão ligados na rede nacional de distribuição e também o consumo é centralizado em uma faixa horária do dia, provocando uma sobre carga e desperdício na sua distribuição.
+
+
+Tela 14 - Pergunte!
+	
+Público 1
+Dona de Família
+	
+Pergunta 1 - Público 1
+Sabe indicar quais são as fontes de energia nacional?
+	
+Pergunta 2 - Público 1
+O que é energia renovável sabe citar algum exemplo?
+	
+Pergunta 3 - Público 1
+Qual o motivo da energia ser mais cara no horário de pico?
+	
+Público 2
+Aposentado
+	
+Pergunta 1 - Público 2
+Sabe indicar quais são as fontes de energia nacional?
+	
+Pergunta 2 - Público 2
+O que é energia renovável sabe citar algum exemplo?
+	
+Pergunta 3 - Público 2
+Qual o motivo da energia ser mais cara no horário de pico?
+	
+Público 3
+Secundarista
+	
+Pergunta 1 - Público 3
+Sabe indicar quais são as fontes de energia nacional?
+	
+Pergunta 2 - Público 3
+O que é energia renovável sabe citar algum exemplo?
+	
+Pergunta 3 - Público 3
+Qual o motivo da energia ser mais cara no horário de pico?
+
+
+Tela 15 - Interprete e defina
+	
+Como podemos....
+fazer com que os consumidores de energia saibam o motivo de priorizar o uso de energia renovável e quais são elas ao seu alcance com a ajuda das Tecnologias Exponenciais?
+
+
+Tela 17 - Sua vez de idealizar!
+	
+Ideia 1:
+Disponibilizar uma bateria residencial que consiga fornecer a energia necessária nos horários mais usados e durante o dia manter um consumo da energia externa.
+
+Internet das Coisas
+	
+Ideia 2:
+Promover o acesso a locais onde o aumente da poluição prejudica a vida e a destruição da natureza.
+
+Realidade Aumentada
+	
+Ideia 3:
+Fornecer a possibilidade de indicar os horário mais indicados para realizar atividades de consumo elevado de energia, assim distribuindo o consumo durante o dia.
+
+Inteligência Artificial
+	
+Ideia 4:
+Disponibilizar acesso ao processo de geração de energia renovável com a utilização de óculos de RV.
+
+Realidade Virtual
+
+
+Tela 18 - A vencedora é...
+	
+A ideia escolhida é:
+Promover o acesso a locais onde o aumente da poluição prejudica a vida e a destruição da natureza.
+	
+A Tecnologia Exponencial que eu vou usar é:
+Realidade Aumentada
+	
+Para atender ao ODS:
+07 - Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos
+
+
+Tela 19 - Prototipe e experimente
+	
+Registre aqui sua ideia de protótipo: qual a melhor forma de representar a sua ideia?
+Imagine em um parque, onde a natureza encontra-se quase intacta, e ela se transformando em uma região morta por motivo da poluição. Os causadores podem ser as chuvas ácidas, o excesso de poluição deixando as folhas sujas e dificultando o processo de fotossíntese e a diminuição da camada de ozônio.
+
+
+Tela 20 - Teste para evoluir
+	
+Planeje como você vai testar o seu protótipo:
+Solicitar que o entrevistado imagine um local de natureza viva e os efeitos do homem (poluição em geral) vai retirando a vida da natureza.
+	
+Quando você vai apresentar?
+Assim que possível contactar as pessoas.
+	
+Para quem?
+Para dona de casa, estuante e aposentado.

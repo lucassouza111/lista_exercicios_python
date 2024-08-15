@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <Title>Convênio Amil</Title>
+    <link rel="stylesheet" href="_css/estilo.css"/>
+    <link rel="stylesheet" href="_css/amil_imagens.css">
+</head>
+<script language="javascript" src="_javascript/funcoes.js"></script>
+<body>
+<div id="interface">
+
+    <header id="cabecalho">
+        <hgroup>
+        <h1>Instrução de Trabalho</h1>
+        <h2>Convênio</h2>
+        </hgroup>
+
+        <img id="icone" src="_imagens/amil.png">
+
+        <nav id="menu">
+        <h1>Menu Principal</h1>
+            <ul type="disc">
+                <li onmouseover="mudaFoto('_imagens/lotus_azul_1.png')" onmouseout="mudaFoto('_imagens/amil.png')"><a href="Index.html" target="_self">Home</a></li>
+                <li onmouseover="mudaFoto('_imagens/amil.png')" onmouseout="mudaFoto('_imagens/amil.png')"><a href="Amil_Index.html" target="_self">Amil</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="corpo">
+    <article id="noticia-principal">
+        <nav id="submenu">
+            <h1>Sub Menu</h1>
+            <ul tupe="subdisc">
+                <li><a href="Amil_Index.html" target="_self">Informações Gerais</a></li><br/> 
+                <li><a href="Amil_Elegibilidade.html" target="_self">Elegibilidade do Paciente</a></li><br/>
+                <li><a href="Amil_Solicitacoes.html" target="_self">Solicitações</a></li><br/>
+                <li><a href="Amil_Solicitacoes.html#consulta" target="_self"> - Consulta</a></li><br/>
+                <li><a href="Amil_Solicitacoes.html#terapia" target="_self"> - Terapia</a></li><br/>
+                <li><a href="Amil_Solicitacoes.html#cirurgia" target="_self"> - Internação Cirúrgica</a></li><br/>
+                <li><a href="Amil_Solicitacoes.html#cancelamento"> - Cancelamento</a></li><br/>
+                <li><a href="Amil_Documentacao.html" target="_self">Documentação</a></li>
+            </ul>
+        </nav>
+        </article>
+    </section>
+
+    <aside id="lateral">
+        <h1><b>3) Solicitação:</b></h1><br/>
+        Veja o passo-a-passo de como realizar as Solicitações, conforme o convênio.<br/>
+        Veja na galeria de imagens, clicando em cada para ampliar, orientações do passo-a-passo.<br/><br/>
+
+        <article id="consulta">
+            <h2>3.1) Consultas <br/>3.1.1) Portal Convênio</h2>
+            03 – Em Validação de atendimento escolha o tipo de atendimento: “Consulta SP/SADT”<br/>
+            04 – Em Informações, Atendimento RN (recém-nascido) escolha Não.<br/>
+            05 – Verificar se no Executante consta os dados da Clínica.<br/>
+            06 – Colocar os dados do profissional solicitante<br/>
+            07 – Colocar o código do procedimento <em>(conforme Anexo B)</em> e click em incluir procedimento<br/>
+            08 – Clicar em incluir no final da página.<br/>
+            09 – Clicar em impressão guias.<br/>
+            09.1 – Escolher a sequência e o tipo de guia<br/>
+            09.2 – Clicar em imprimir<br/>
+            10 – Preencher o campo com o token que o paciente fornecer.<br/>
+            11 – Preencher com a data do atendimento.<br/>
+            12 – Preencher com o horário aproximado.<br/>
+            13 – Confirme o atendimento.<br/>
+        </article>
+
+        <ul id="album-imagens">
+            <li id="amil_solic_01" onclick="amplia('../_imagens/amil_solic_01.png')"><span>Itens 3 e 4</span></li>
+            <li id="amil_solic_02"><span>Itens 5 e 6</span></li>
+            <li id="amil_solic_03"><span>Itens 7 e 8</span></li>
+            <li id="amil_solic_04"><span>Itens 9 à 13</span></li>
+            <li id="amil_solic_04_1"><span>Itens 9.1 e 9.2</span></li>
+        </ul>
+
+    </aside>
+
+    <footer id="rodape">
+        <p>Copyright &copy; LOTUS Medicina da Dor <br/>
+        <a href="http://medicinadador.com.br" target="_blank">Site: Medicina da Dor</a></p>
+    </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+﻿Tecnologias Exponenciais - Módulo 3 - Minhas Respostas
+
+
+Tela 8 - Você, professor
+	
+1 - Características do cachorro:
+Tem quantidade maior de traços e são fofos.
+	
+2- Características do bagel:
+São mais constates nas texturas e uma quantidade menor de traços.
+	
+Tela 10 - Todo dia ela faz tudo sempre igual...
+	
+1- Escreva aqui a  sua explicação:
+pegar o celular que está tocando;
+apertar o botal de desativar o alarme;
+retirar o lençol;
+levantar da cama;
+cobrir a cama com o lençol;
+abrir a porta do quarto;
+ir ao banheiro;
+usar o programa escovar o dente;
+retornar ao quarto;
+ir ao armário;
+usar o programa trocar de roupa;
+
+
+Tela 15 - Pensando em soluções
+	
+Para você, como evitar que projetos de IA continuem a prejudicar grupos já excluídos historicamente pela sociedade?
+Entendo que devemos sempre alimentar a IA com os conceitos pré definidos que ajudam em manter a sociedade saudável.
+
+
+Tela 20 - Segurança ou vigilância?
+	
+1 - O que você pensa sobre os sistemas capazes de gerar dados de pessoas comuns, que estão andando na rua?
+No mundo perfeito o sistema só tem a agregar valor a vida em sociedade. O problema são as pessoas que tem acesso as informações coletadas. O que podem fazer com os dados acabam contaminando a tecnologia com coisas corruptas.
+
+
+Tela 21 - Invente, pense diferente!
+	
+2 - Escreva sua invenção usando a Inteligência Artificial. Para que ela serve?
+A invenção seria de atendimento verde amarelo ou vermelho na rede de saúde pública. A invenção serve para mostrar os postos de atendimentos da rede pública em relação ao atendimento no momento. Assim é possível distribuir a população, quando possível, para uma unidade de atendimento que provavelmente o atendimento seja mais rápido por ter menos pessoas em relação a porcentagem de atendimento possível.

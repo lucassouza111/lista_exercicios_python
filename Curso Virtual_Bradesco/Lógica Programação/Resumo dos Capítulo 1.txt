@@ -1,0 +1,92 @@
+Lógica de Programação
+
+Cap. 1 - Lógica, Algoritmo e Pseudocódigo
+
+- Lógica
+Uma sequência Lógica é um grupo de passos estabelecidos para chegar a um resultado, a um objetivo ou à solução de um problema.
+
+Dessa forma, um programa nada mais é do que uma sequência lógica de instruções organizadas para manipular informações inseridas pelos usuários. Tudo isso é feito para atingir determinado fim.
+
+- Algoritmo
+Conjunto de regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema por meio de um nnúmero finito de etapas.
+Não é a solução do problema porque ele é, na realidade, a descrição detalhada das etapas que devem ser percorridas para se chegar a uma solução.
+em outras palavras, é preciso diferenciar a solução (programa) da proposta de solução (algoritmo).
+
+Etapas de Desenvolvimento de um Sofware:
+Estudo do problema;
+Estruturação do algoritmo;
+Desenvolvimento do código (programação);
+Implantação da solução.
+
+Já sabemos, mas não custa nda lembrar: essa sequência de passos é chamada de algoritimo
+
+Forma de representar algoritmos:
+Descrição Narrativa;
+Diagrama de Blocos ou Fluxograma;
+Português Estruturado ou Pseudocódigo.
+
+
+- Pseudocódigo
+Algoritmo <nome_do_algoritmo>
+// <explicação resumida do que a rotina irá fazer>
+    Var
+    <declaração das variáveis e do tipo de informação que elas receberão>
+Início
+    <instruções e processamentos encadeados de forma lógica>
+Fim
+
+Tipos de Dados:
+Dados literais (ou cracteres) - são sequências contendo letras, números e outros símbolos especiais. Indicado en aspas ("").
+Dados numéricos - numéricos reais ou inteiros.
+Dados Lógicos - São apenas dois valors utilizados por elementos condicionais para tomadas de decisão.
+
+Chamamos de constante todo valor fixo que não seá alterado durante a execução de um programa.
+
+Variáveis devem sempre ser declaradas no início dos algoritmos e dos programas. Não podem receber no seu nome espaços e caracteres especiais.
+
+
+Utilização de Pseudocódigos
+
+Regras:
+1. Todo algoritmo em pseudocódigo deve ser iniciado com Algoritmo: NomeDoAlgoritmo.
+2. O início e fim do programa são limitados pelos marcadores Início e Fim.
+3. As variáveis são declaradas no início do algoritmo, abaixo do marcador Var, da seguinte forma: NomeDaVariável: Tipo da variável.
+4. Os nomes das variáveis NÃO podem:
+Iniciar por número (erro: 1nome)
+Ter espaço (erro: nome completo)
+Ter caracteres especiais (´,`, ~,ç ,- e outros).
+5. As palavras-reservadas devem ser evitadas: Início, Fim, Var, Se e Senão.
+6. Os nomes das variáveis são case sensitive. Dessa forma, ao manipularmos variáveis, devemos usar o mesmo nome declarado no início, considerando o uso de letras maiúsculas e minúsculas.
+7. O comando Leia deve ser usado para receber (capturar) dados do usuário, fase do processamento conhecida como “Entrada de Dados”.
+8. O comando Escreva deve ser usado para exibir (apresentar, mostrar) dados ao usuário, fase do processamento conhecida como “Saída de Dados”.
+9. Os textos a serem exibidos na tela ou que devam ser inseridos como caractere são colocados entre "aspas“ (representação universal de um valor literal ou string – “Sistemas”).
+10. Os comentários sobre o código podem ser inseridos {entre chaves} (incomum por confundir com agrupamentos) ou inseridos utilizando // (mais comum) no início da linha de instruções. O comentário não altera a execução do código. Contudo, ele é de fundamental importância para documentar e tornar inteligíveis as escolhas de programação realizadas no código para outros programadores.
+
+
+Operadores: Tipos e Usos
+- Aritiméticos
+Soma (+), Subitração (-), Multiplicação (*), Divisão (/), Exponenciação (^)
+
+- Relacionais
+Maior que (>), Menor que (<), Igual a (=), Diferente de (<> ou # ou !=), Comparação Condicional (==)
+
+- Lógico
+Conjução (E), Disjunção_não exclusia (OU), Negação (NÃO), Disjunção_exclusiva (XOU)
+
+
+Aspectos das Variáveis:
+- Nome - O nome da variável deve ser escolhido com cuidado, de forma a dar pistas do tipo de informação que ela vai receber.
+Nesse sentido, uma variável chamada MEDIA_FINAL indica que ela será usada para receber e armazenar o cálculo da média final de alunos.
+
+- Tipo - Como a nota pode não ser um valor inteiro, a variável MEDIA_FINAL deve ser declarada com o tipo numérica real.
+
+- Conteúdo - É necessário que esse conteúdo seja coerente com a natureza da informação que foi definida no Tipo.
+
+
+
+
+
+
+
+
+

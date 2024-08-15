@@ -1,0 +1,4 @@
+CodArea	Regiao
+Qtr 1	Região de Vendas 1
+Qtr 2	Região de Vendas 2
+Qtr 3	Região de Vendas 3

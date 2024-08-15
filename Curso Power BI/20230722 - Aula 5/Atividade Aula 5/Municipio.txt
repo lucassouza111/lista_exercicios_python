@@ -1,0 +1,7 @@
+Cod_Municipio	Municipio
+IT	Itatiaia
+MA	Maricá
+NI	Niterói
+PA	Parati
+RJ	Rio de Janeiro
+SG	São Gonçalo

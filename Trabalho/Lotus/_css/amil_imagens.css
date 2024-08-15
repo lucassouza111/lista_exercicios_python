@@ -1,0 +1,111 @@
+@charset "UTF-8"
+
+ul#album-imagens {
+    width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
+
+ul#album-imagens li {
+     float: left;
+     width: 100px;  
+     height: 70px;
+     margin: 10px;
+     border: 3px solid #ffffff;
+     background-color: #ffffff;
+     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+     list-style: none;
+}
+
+ul#album-imagens li span {
+    opacity: 0;
+    color: #ffffff;
+    text-shadow: .5px .5px .5px #000000;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 3pt;
+    line-height: 140px;
+    padding: 2px;
+}
+
+ul#album-imagens li:hover {
+    -webkit-transform: scale(5.5);
+    -webkit-transition: all .6s ease-in-out;
+}
+
+ul#album-imagens li:hover span {
+    opacity: 1;
+}
+
+ul#album-imagens li#amil_eleg_01 {
+    background: url('../_imagens/amil_eleg_01.png') no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 120px;
+    background-color: #ffffff;
+}
+
+ul#album-imagens li#amil_eleg_01:hover {
+    background-position: 0px 0px;
+    background-size: 100px 70px;
+}
+
+ul#album-imagens li#amil_solic_01 {
+    background:url('../_imagens/amil_solic_01.png') no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 120px;
+    background-color: #ffffff;
+}
+
+ul#album-imagens li#amil_solic_01:hover {
+    background-position: 0px 0px;
+    background-size: 100px 70px;
+}
+
+ul#album-imagens li#amil_solic_02 {
+    background:url('../_imagens/amil_solic_02.png') no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 120px;
+    background-color: #ffffff;
+}
+
+ul#album-imagens li#amil_solic_02:hover {
+    background-position: 0px 0px;
+    background-size: 100px 70px;
+}
+
+ul#album-imagens li#amil_solic_03 {
+    background:url('../_imagens/amil_solic_03.png') no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 120px;
+    background-color: #ffffff;
+}
+
+ul#album-imagens li#amil_solic_03:hover {
+    background-position: 0px 0px;
+    background-size: 100px 70px;
+}
+
+ul#album-imagens li#amil_solic_04 {
+    background:url('../_imagens/amil_solic_04.png') no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 120px;
+    background-color: #ffffff;
+}
+
+ul#album-imagens li#amil_solic_04:hover {
+    background-position: 0px 0px;
+    background-size: 100px 70px;
+}
+
+ul#album-imagens li#amil_solic_04_1 {
+    background:url('../_imagens/amil_solic_04_1.png') no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 120px;
+    background-color: #ffffff;
+}
+
+ul#album-imagens li#amil_solic_04_1:hover {
+    background-position: 0px 0px;
+    background-size: 100px 70px;
+}
